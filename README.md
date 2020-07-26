@@ -1,3 +1,3 @@
 ### Test repo
 
-This is just testt repo.
+This is just test repo.
